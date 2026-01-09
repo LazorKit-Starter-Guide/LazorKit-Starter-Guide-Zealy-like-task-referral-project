@@ -8,23 +8,23 @@ This demo helps you see how Lazorkit can power **Zealy-like task systems**, **co
 
 ---
 
-## 🚀 What This Project Does
+## What This Project Does
 
 This UI showcases:
 
-* 🔐 **Passkey Login** using Lazorkit WebAuthn
-* 🧠 **Smart Wallets** (account abstraction)
-* ⚡ **Gasless Transactions** using Lazorkit paymaster
-* 👥 **User onboarding with referral links**
-* 🎁 **Claimable badges or tasks**
-* 🔗 **Simple dashboard showing referral stats**
+*  **Passkey Login** using Lazorkit WebAuthn
+*  **Smart Wallets** (account abstraction)
+*  **Gasless Transactions** using Lazorkit paymaster
+*  **User onboarding with referral links**
+*  **Claimable badges or tasks**
+*  **Simple dashboard showing referral stats**
 
 > **Note:** This repo currently contains the **UI only**.
 > Full Lazorkit referral integration will be added during the stream.
 
 ---
 
-## 💡 Why Lazorkit for Referral Apps?
+## Why Lazorkit for Referral Apps?
 
 Zealy-style task systems require:
 
@@ -54,7 +54,7 @@ And sign tasks or claims **gaslessly**.
 
 ---
 
-# 📥 How to Fork This Repo
+# How to Fork This Repo
 
 1. Click **Fork** on GitHub
 2. Choose your GitHub account
@@ -62,7 +62,7 @@ And sign tasks or claims **gaslessly**.
 
 ---
 
-# 📥 How to Clone
+# How to Clone
 
 ```sh
 git clone https://github.com/<your-username>/<repo-name>.git
@@ -101,7 +101,7 @@ http://localhost:5173/
 
 ---
 
-# 🔧 LazorKit Configuration
+# LazorKit Configuration
 
 The project uses:
 
